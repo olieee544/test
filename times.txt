@@ -1,1 +1,1 @@
-CHÚC MỪNG NĂM MỚI 2021 VẠN SỰ NHƯ Ý <color 255 255 255   > <font_times_new_roman>
+<S1 CHÚC MỪNG><color1 RED> <S2 NĂM MỚI 2022><color2 PINK> <S3 VẠN SỰ NHƯ Ý><color3 WHITE> <font_times_new_roman>
