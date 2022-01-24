@@ -1,1 +1,1 @@
-<S1 CHÚC MỪNG><color1 RED> <S2 NĂM MỚI 2022><color2 PINK> <S3 VẠN SỰ NHƯ Ý><color3 WHITE> <font_times_new_roman>
+<F1/> <M1/> <S1/> <C1 RED> <T1 CHÚC MỪNG> <C2 PINK> <T2 NĂM MỚI 2022> 
